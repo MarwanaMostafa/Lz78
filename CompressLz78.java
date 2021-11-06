@@ -11,7 +11,7 @@ public class LZ78 {
         ArrayList<Character> NextSymbol = new ArrayList<Character>();
         ArrayList<String> DICTIONARY = new ArrayList<String>();
 
-        DICTIONARY.add("");// because we staring dictionary from 1 look doctor in lecture
+        DICTIONARY.add("");// because we staring dictionary from 1 
         String temp = "";
         for (int i = 0; i < Text.length(); i++) {
             temp = Text.substring(i, i + 1);
