@@ -5,7 +5,7 @@ take input from user as string and parse it then compress string then print resu
 
 ## See Also:
 
-* [LZ78](https://github.com/MarwanaMostafa/Lz77)
+* [LZ77](https://github.com/MarwanaMostafa/Lz77)
 
 * [LZW](https://github.com/MarwanaMostafa/LZW)
 
